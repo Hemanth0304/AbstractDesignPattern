@@ -1,0 +1,16 @@
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.exe
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.deps.json
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.json
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.dev.json
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.dll
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\ref\AbstractFactoryPattern.dll
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.pdb
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.AssemblyReference.cache
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.dll
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\ref\AbstractFactoryPattern.dll
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.pdb
+C:\Users\Merit.MSSPLACA002\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.genruntimeconfig.cache
